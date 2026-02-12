@@ -25,4 +25,15 @@ The system ensures:
   .OOP Concepts
   .Exception Handling
   .ArrayList (Collection Framework)
-	.Layered Architecture (Entity, Service, Util, Main)
+  .Layered Architecture (Entity, Service, Util, Main)
+
+
+
+output:
+   <img width="816" height="318" alt="image" src="https://github.com/user-attachments/assets/d306a5ce-9e4d-406f-8b0e-51c0d82b9c53" />
+
+
+
+
+
+
